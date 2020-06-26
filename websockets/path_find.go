@@ -1,7 +1,7 @@
 package websockets
 
 import (
-	"github.com/kr-jaydeepp/ripple/data"
+	"github.com/knackroot-technolabs-llp/ripple/data"
 )
 
 // https://ripple.com/build/rippled-apis/#path-find
